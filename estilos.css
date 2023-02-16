@@ -2,7 +2,7 @@ body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-header{
+.header{
     height: 65px;
     background-color: #2E9AFE;
     color: white;
@@ -122,10 +122,6 @@ footer{
     display: flex;
     justify-content: center;
 }
-.encabezado{
-    text-align: justify;
-}
-
 
 
 
@@ -215,6 +211,10 @@ footer{
         margin: 0 10px 0 10px;
     }
     .encabezado{
+        width: auto;
+        height: auto;
+    }
+    .header{
         width: auto;
         height: auto;
     }
