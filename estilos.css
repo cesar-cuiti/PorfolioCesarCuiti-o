@@ -122,6 +122,9 @@ footer{
     display: flex;
     justify-content: center;
 }
+.encabezado{
+    text-align: justify;
+}
 
 
 
@@ -133,6 +136,7 @@ footer{
     font-size: 16px;
     border: none;
     border-radius: 5px;
+    margin: auto;
 }
 
 .dropdown {
