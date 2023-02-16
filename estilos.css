@@ -210,4 +210,8 @@ footer{
     .red-social{
         margin: 0 10px 0 10px;
     }
+    .encabezado{
+        width: auto;
+        height: auto;
+    }
 }
