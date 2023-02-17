@@ -139,8 +139,7 @@ footer{
 .dropdown {
     position: relative;
     display: inline-block;
-    margin-left: 60%;
-    margin-right: 10%;
+    margin-left: 50%;
 }
 
 .dropdown-content {
